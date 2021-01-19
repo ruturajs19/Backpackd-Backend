@@ -1,0 +1,8 @@
+{
+    "env": {
+        "DB_USER": "Ruturaj",
+        "DB_PASSWORD": "ruturaj",
+        "DB_NAME": "Places",
+        "JWT_KEY": "start_with_a_dream"
+    }
+}
